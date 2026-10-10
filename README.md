@@ -16,8 +16,8 @@ I build **LLM applications** (RAG pipelines, LLM evaluation, Gemini-powered apps
 
 ### Tech
 
-**AI & ML:** RAG, hybrid retrieval, reranking, LLM evaluation, Gemini API, Ollama, scikit-learn, SHAP
-**Data:** Python, pandas, NumPy, SQL, PostgreSQL, MongoDB, Qdrant, Supabase
+**AI & ML:** RAG, hybrid retrieval, reranking, LLM evaluation, Gemini API, Ollama, scikit-learn, SHAP<br>
+**Data:** Python, pandas, NumPy, SQL, PostgreSQL, MongoDB, Qdrant, Supabase<br>
 **Software:** TypeScript, React, Node.js, FastAPI, Flutter, Docker, AWS, Git, pytest
 
 ### Contact
