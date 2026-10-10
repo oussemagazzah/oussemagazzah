@@ -10,7 +10,7 @@ I build **LLM applications** (RAG pipelines, LLM evaluation, Gemini-powered apps
 | Project | What it is | Stack |
 |---|---|---|
 | [**DocuMindRAG**](https://github.com/oussemagazzah/DocuMindRAG) | Document Q&A with hybrid retrieval, RRF fusion and cross-encoder reranking. **92% groundedness** on a 50-question benchmark, with page-level citations. | Python, FastAPI, Qdrant, sentence-transformers, Ollama, Gemini |
-| [**Diabetes Risk Predictor**](https://github.com/oussemagazzah/IA-Diabetes-Predictor) | Leakage-free, calibrated screening model. **ROC-AUC 0.81** on a held-out test set, threshold tuned for recall, SHAP explanations, Streamlit demo. | scikit-learn, SHAP, Streamlit, pytest, CI |
+| [**Diabetes Risk Predictor**](https://github.com/oussemagazzah/diabetes-risk-predictor) | Leakage-free, calibrated screening model. **ROC-AUC 0.81** on a held-out test set, threshold tuned for recall, SHAP explanations, Streamlit demo. | scikit-learn, SHAP, Streamlit, pytest, CI |
 | [**Scanni**](https://www.horizon-impact.site/) | Community-impact app (PSC 2026): scans food labels, uses the Gemini API to structure ingredients, flags additives. I built the Gemini integration and the [landing page](https://github.com/oussemagazzah/horizon-impact-site). | Flutter, Supabase, Gemini API, TypeScript |
 | [**Orderly Table**](https://github.com/oussemagazzah/cafe-manjo-s) | Restaurant management system with orders, reservations and role-based access. [Live demo](https://oussemagazzah.github.io/cafe-manjo-s/). | React, TypeScript, Supabase |
 
