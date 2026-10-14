@@ -21,7 +21,7 @@
 ### 👨‍💻 About me
 
 - 🤖 I build **LLM applications**: RAG pipelines, LLM evaluation, and Gemini-powered apps
-- 📊 I train **ML models I can explain**: leakage-free pipelines, calibration, SHAP
+- 📊 I train **ML models**: leakage-free pipelines, calibration, SHAP
 - 🌐 Full-stack background from 2 internships (React, Node.js, MongoDB)
 - 🔭 **Looking for a Summer 2027 AI/ML internship**, abroad with visa sponsorship or remote
 
